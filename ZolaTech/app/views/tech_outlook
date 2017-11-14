@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Modernize</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <img src="images/logo.png" alt="modernize_logo">
+            <h5>Call Us: (666)234-5678</h5>
+        </header>
+        <div class="main">
+            <div class="navbar">
+                <ul>
+                <li>Home</li>
+                <li>Blog >></li>
+                <li>Porfolio >></li>
+                <li>Shortcodes >></li>
+                <li>Feature >></li>
+                <li>Contact</li>
+                </ul>
+            </div>
+            <img src="images/main_pic.png" alt="main_pic">
+            <div class="main_products">
+                <div>
+                   <img src="images/content_icon1.png" alt="icon1">
+                   <h4>Ridiculus Ornare</h4>
+                   <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nesciunt, odit nobis. Debitis maiores, expedita, iure eligendi unde deleniti necessitatibus modi maxime non hic vel! Placeat quod omnis animi corrupti quisquam.</p> 
+                </div>
+                <div>
+                    <img src="images/content_icon2.png" alt="icon2">
+                    <h4>Ridiculus Ornare</h4>
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nesciunt, odit nobis. Debitis maiores, expedita, iure eligendi unde deleniti necessitatibus modi maxime non hic vel! Placeat quod omnis animi corrupti quisquam.</p>
+                </div>
+                <div>
+                    <img src="images/content_icon3.png" alt="icon3">
+                    <h4>Ridiculus Ornare</h4>
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nesciunt, odit nobis. Debitis maiores, expedita, iure eligendi unde deleniti necessitatibus modi maxime non hic vel! Placeat quod omnis animi corrupti quisquam.</p>
+                </div>
+                <div>
+                    <img src="images/content_icon4.png" alt="icon4">
+                    <h4>Ridiculus Ornare</h4>
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nesciunt, odit nobis. Debitis maiores, expedita, iure eligendi unde deleniti necessitatibus modi maxime non hic vel! Placeat quod omnis animi corrupti quisquam.</p>
+                </div>
+
+            </div>
+            <div class="bottom_up">
+                <h2>Bibendum Fusce Vehicula Ullamcorper Fermentum</h2>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nesciunt, odit nobis. Debitis maiores, expedita, iure eligendi unde deleniti necessitatibus modi maxime non hic vel! Placeat quod omnis animi corrupti quisquam.</p>
+                <button>Buy Now</button>
+            </div>
+        </div>
+        <div class="foot">
+           <h3>Porfolio</h3>
+           <p>View All Projects ></p>
+            <div class="boxes">
+                <div>
+                    <img src="images\portfolio1.png" alt="port1">
+                    <h4>Built-in Shortcodes</h4>
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nesciunt, odit nobis. Debitis maiores, expedita, iure eligendi
+                    unde deleniti ecessitatibus modi maxime non hic vel! Placeat quod omnis animi corrupti quisquam.</p>
+                </div>
+                <div>
+                    <img src="images\portfolio2.png" alt="port2">
+                    <h4>New Page Builder</h4>
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nesciunt, odit nobis. Debitis maiores, expedita, iure eligendi unde deleniti ecessitatibus modi maxime non hic vel! Placeat quod omnis animi corrupti
+                        quisquam.</p>
+                </div>
+                <div>
+                    <img src="images\portfolio3.png" alt="port3">
+                    <h4>Access Elements Color</h4>
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nesciunt, odit nobis. Debitis maiores, expedita, iure eligendi unde deleniti ecessitatibus modi maxime non hic vel! Placeat quod omnis animi corrupti
+                        quisquam.</p>
+                </div>
+                <div>
+                    <img src="images/portfolio4.png" alt="port4">
+                    <h4>3 Custom Post Types</h4>
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nesciunt, odit nobis. Debitis maiores, expedita, iure eligendi unde deleniti ecessitatibus modi maxime non hic vel! Placeat quod omnis animi corrupti
+                        quisquam.</p>
+                </div>
+            </div>
+        </div>
+    
+    </div>
+    
+    
+</body>
+</html>
